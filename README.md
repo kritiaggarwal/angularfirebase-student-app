@@ -1,6 +1,13 @@
 # AngularfirebaseStudentApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
+This project aims to demonstrate integration of Firebase 5 with Angular 7 & performing basic CRUD Operations.
+This uses Firebase Realtime Database for CRUD Operations.
+
+## TODO Before Starting,
+
+Go to Firebase Console > Project Name > Authentication > Web Setup.
+Add that config object to environment file in this project. 
 
 ## Development server
 
